@@ -1,0 +1,16 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2C86-7265
+
+ Directory of C:\Users\munnam\Desktop\Automation\Learning
+
+07/17/2020  03:54 PM    <DIR>          .
+07/17/2020  03:54 PM    <DIR>          ..
+07/17/2020  12:06 PM                68 .gitattributes
+07/17/2020  03:19 PM               579 index.html
+07/17/2020  12:18 PM                11 Test - Copy.txt
+07/17/2020  12:06 PM                11 Test.txt
+07/17/2020  03:19 PM                13 test1.txt
+07/17/2020  03:46 PM               629 test2.txt
+07/17/2020  03:54 PM                 0 testing.txt
+               7 File(s)          1,311 bytes
+               2 Dir(s)  133,424,369,664 bytes free
